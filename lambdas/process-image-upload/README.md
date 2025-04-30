@@ -43,6 +43,7 @@ Ela utiliza o AWS Rekognition para detectar rótulos e armazena os resultados no
 ---
 
 ✅ Tip: Ensure the Lambda execution role includes S3 read permissions.
+
 ✅ Dica: Garanta que a role da Lambda tenha permissão de leitura no S3.
 
 ---
