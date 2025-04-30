@@ -34,6 +34,7 @@ GET https://your-api-id.execute-api.region.amazonaws.com/prod/analyze/cachorro.p
   ]
 }
 ```
+---
 
 ## ⚠️ Error Responses | Respostas de Erro
 
