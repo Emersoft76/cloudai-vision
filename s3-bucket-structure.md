@@ -9,6 +9,7 @@ Este documento descreve como o bucket S3 é organizado no projeto **CloudAI Visi
 cloudai-vision-input
 
 **Note | Nota:**
+
 Bucket names must be globally unique.  
 Os nomes dos buckets devem ser globalmente únicos.
 
