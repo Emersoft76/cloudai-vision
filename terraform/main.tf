@@ -1,3 +1,4 @@
+```hd
 provider "aws" {
   region = var.region
 }
@@ -25,3 +26,4 @@ resource "aws_dynamodb_table" "results" {
     Name = "CloudAI Results Table"
   }
 }
+```
