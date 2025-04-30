@@ -29,7 +29,7 @@ Use um nome único para o bucket.
 
 ---
 
-🧠 2. Enable Rekognition Access | Ativar o acesso ao Rekognition
+## 🧠 2. Enable Rekognition Access | Ativar o acesso ao Rekognition
 
 Rekognition does not require prior setup.
 O Rekognition não exige configuração prévia.
@@ -48,7 +48,7 @@ O Rekognition não exige configuração prévia.
 ```
 ---
 
-🗃️ 3. Create DynamoDB Table | Criar Tabela no DynamoDB
+## 🗃️ 3. Create DynamoDB Table | Criar Tabela no DynamoDB
 
 English
 This table stores metadata of image analyses.
@@ -64,7 +64,7 @@ aws dynamodb create-table \
 ```
 ---
 
-🔁 4. Create Lambda Functions | Criar Funções Lambda
+## 🔁 4. Create Lambda Functions | Criar Funções Lambda
 
 * process-image-upload: triggered by S3 to analyze images
 
@@ -83,7 +83,7 @@ Permissions Required | Permissões Requeridas:
   * DynamoDB write/read
 ---
 
-🌐 5. Create API Gateway | Criar API Gateway
+## 🌐 5. Create API Gateway | Criar API Gateway
 
 English
 Create a REST API to allow GET access to metadata.
