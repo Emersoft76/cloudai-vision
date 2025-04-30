@@ -34,8 +34,8 @@ Use um nome único para o bucket.
 Rekognition does not require prior setup.
 O Rekognition não exige configuração prévia.
 
-    Make sure your Lambda has IAM permissions:
-    Certifique-se de que sua Lambda tenha permissões IAM adequadas:
+   Make sure your Lambda has IAM permissions:
+   Certifique-se de que sua Lambda tenha permissões IAM adequadas:
 ```json
 {
   "Effect": "Allow",
