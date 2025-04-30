@@ -71,6 +71,7 @@ aws dynamodb create-table \
 * fetch-image-analysis: fetches analysis from DynamoDB
 
   Set handler: lambda_function.lambda_handler
+  
   Defina o handler: lambda_function.lambda_handler
 
 Permissions Required | Permissões Requeridas:
