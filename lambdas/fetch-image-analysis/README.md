@@ -39,4 +39,7 @@ A JSON response containing the list of labels associated with the image.
 ```
 ---
 ✅ Tip: Connect this Lambda to an HTTP GET method in API Gateway.
+
 ✅ Dica: Conecte esta Lambda a um método GET no API Gateway.
+
+---
