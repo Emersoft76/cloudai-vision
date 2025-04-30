@@ -111,6 +111,7 @@ Crie uma API REST para permitir acesso GET aos metadados.
 ---
 
 Important Note | Nota Importante
+
 All services can be deployed using the AWS Free Tier if used within limits.
 
 Todos os serviços podem ser utilizados no Free Tier da AWS, se usados dentro dos limites.
