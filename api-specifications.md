@@ -23,7 +23,7 @@ GET https://your-api-id.execute-api.region.amazonaws.com/prod/analyze/cachorro.p
 ---
 
 ## ✅ Example Response | Exemplo de Resposta
-```
+```json
 {
   "imageKey": "cachorro.png",
   "labels": [
