@@ -95,6 +95,7 @@ cloudai-vision/
 
 
 Important Note | Nota Importante:
+
 Cloud resource usage (even on AWS Free Tier) can generate costs.
 
 O uso de recursos em nuvem (mesmo no AWS Free Tier) pode gerar custos.
