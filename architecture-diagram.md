@@ -50,11 +50,16 @@ Esta arquitetura descreve um pipeline totalmente serverless e escalável que ana
 ```
 ---
 
-## ⚠️ Notes
+---
 
-  * The entire system is stateless and event-driven.
+## ⚠️ Notes | Notas
 
-  * It allows for automatic scaling, parallel processing, and real-time response.
+- The entire system is **stateless and event-driven**.  
+  Todo o sistema é **sem estado e orientado a eventos**.
 
-  * All components are eligible under AWS Free Tier with usage constraints.
+- It allows for **automatic scaling**, **parallel processing**, and **real-time response**.  
+  Permite **escalabilidade automática**, **processamento paralelo** e **respostas em tempo real**.
 
+- All components are eligible under **AWS Free Tier**, with usage constraints.  
+  Todos os componentes são elegíveis dentro do **AWS Free Tier**, com limitações de uso.
+---
